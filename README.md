@@ -31,18 +31,24 @@
 
 ##
 
-<div align="center"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=msrother&show_icons=true&count_private=true&hide_border=true&title_color=30A3DC&icon_color=30A3DC&text_color=ffffff&bg_color=0d1117" alt="Marcelo's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrother&layout=compact&hide_border=true&title_color=30A3DC&text_color=ffffff&bg_color=0d1117" />
+ <div align="center">
+   <h3 align="left">Git Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=msrother&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" width="40%" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msrother&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="170" width="40%" alt="languages graph"  />
 </div>
- 
+
+
 ##
 
-<div align="left" >
-  <h3>Contact me</h3>  
+<div align="center" >
+  <h3>Contact me</h3>    
+  <a href="https://www.linkedin.com/in/marcelo-somenzi-rother-53111267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin" target="_blank"></a>
   <a href = "mailto:somenzi.rother@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-somenzi-rother-53111267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin" target="_blank"></a> 
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=msrother.msrother&"  />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=80&section=footer"/>
